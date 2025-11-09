@@ -1,0 +1,15 @@
+var searchData=
+[
+  ['taylor_0',['Michael Taylor',['../dir_6f25e4dcac2ea7a44ba93d67e67dc514.html#autotoc_md1',1,'']]],
+  ['testing_201_1',['3 Further Unit Testing (1)',['../dir_6f25e4dcac2ea7a44ba93d67e67dc514.html#autotoc_md14',1,'']]],
+  ['tests_20for_20basic_20drawing_20commands_20above_201_20mdash_20done_2',['2 Unit Tests for basic drawing commands above (1) -&amp;mdash; DONE',['../dir_6f25e4dcac2ea7a44ba93d67e67dc514.html#autotoc_md5',1,'']]],
+  ['text_20based_20version_20extension_20to_20boose_20itself_20etc_20discuss_20with_20your_20tutor_202_3',['8 Additional (web version, text-based version, extension to BOOSE itself, etc, discuss with your tutor) (2)',['../dir_6f25e4dcac2ea7a44ba93d67e67dc514.html#autotoc_md19',1,'']]],
+  ['the_20library_20are_20implemented_202_20mdash_20done_4',['6 Basic drawing commands of the library are implemented (2) -&amp;mdash; DONE',['../dir_6f25e4dcac2ea7a44ba93d67e67dc514.html#autotoc_md9',1,'']]],
+  ['the_20this_20form_20before_20submission_20and_20submit_20your_20zipped_20up_20project_20to_20mybeckett_5',['&lt;a href=&quot;https://forms.gle/MJB6vEbgAPXC6A6G8&quot;&gt;You MUST fill in the this form before submission and submit your zipped up project to myBeckett&lt;/a&gt;',['../dir_6f25e4dcac2ea7a44ba93d67e67dc514.html#autotoc_md10',1,'']]],
+  ['this_20form_20before_20submission_20and_20submit_20your_20zipped_20up_20project_20to_20mybeckett_6',['&lt;a href=&quot;https://forms.gle/MJB6vEbgAPXC6A6G8&quot;&gt;You MUST fill in the this form before submission and submit your zipped up project to myBeckett&lt;/a&gt;',['../dir_6f25e4dcac2ea7a44ba93d67e67dc514.html#autotoc_md10',1,'']]],
+  ['this_20form_20whilst_20recording_20your_20youtube_20video_20and_20submit_20it_20to_20mybeckett_7',['&lt;a href=&quot;https://forms.gle/j3eMcVbbjQ3sFrXw7&quot;&gt;You MUST fill in this form whilst recording your YouTube Video AND submit it to myBeckett&lt;/a&gt;',['../dir_6f25e4dcac2ea7a44ba93d67e67dc514.html#autotoc_md20',1,'']]],
+  ['to_20boose_20itself_20etc_20discuss_20with_20your_20tutor_202_8',['8 Additional (web version, text-based version, extension to BOOSE itself, etc, discuss with your tutor) (2)',['../dir_6f25e4dcac2ea7a44ba93d67e67dc514.html#autotoc_md19',1,'']]],
+  ['to_20mybeckett_9',['to myBeckett',['../dir_6f25e4dcac2ea7a44ba93d67e67dc514.html#autotoc_md20',1,'&lt;a href=&quot;https://forms.gle/j3eMcVbbjQ3sFrXw7&quot;&gt;You MUST fill in this form whilst recording your YouTube Video AND submit it to myBeckett&lt;/a&gt;'],['../dir_6f25e4dcac2ea7a44ba93d67e67dc514.html#autotoc_md10',1,'&lt;a href=&quot;https://forms.gle/MJB6vEbgAPXC6A6G8&quot;&gt;You MUST fill in the this form before submission and submit your zipped up project to myBeckett&lt;/a&gt;']]],
+  ['tri_10',['Tri',['../class_b_o_o_s_eapp_1_1_app_canvas.html#a6075bdc219dce8deb5959673aaeab337',1,'BOOSEapp::AppCanvas']]],
+  ['tutor_202_11',['8 Additional (web version, text-based version, extension to BOOSE itself, etc, discuss with your tutor) (2)',['../dir_6f25e4dcac2ea7a44ba93d67e67dc514.html#autotoc_md19',1,'']]]
+];
